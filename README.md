@@ -1,6 +1,5 @@
-# docker-elk,efk
+# docker-elk
 Docker 기반의 ELK docker compose
-2025년 efk 추가 계획
 
 # docker compose 실행
 1. docker-compose 버전 확인
